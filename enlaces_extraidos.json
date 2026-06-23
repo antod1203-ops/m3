@@ -1,0 +1,20 @@
+[
+    {
+        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "categoria": "Fútbol",
+        "canal_nombre": "America TV",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/americatv/index.m3u8?ip=201.248.1.27&token=b94afbefccd7e66bf8a19930185ea44080214edb-5b-1782293248-1782239248"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "categoria": "Fútbol",
+        "canal_nombre": "Telemundo USA",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/telemundo/index.m3u8?ip=201.248.1.27&token=af61c9b2b0bf38d53db05173a70fe86264d800ca-f4-1782293259-1782239259"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "categoria": "Fútbol",
+        "canal_nombre": "Trece PY",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/trecepy/index.m3u8?ip=201.248.1.27&token=5e873799073e805e4e1a73cadd860b659f00e8cf-01-1782293269-1782239269"
+    }
+]
