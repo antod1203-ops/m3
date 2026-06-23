@@ -1,20 +1,194 @@
 [
     {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "America TV GO",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/americatv/index.m3u8?token=bbc97e53e45a6cbd09036cb2a66b9525bf83697f-d6-1782297213-1782243213"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "CazéTV BR",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/cazetv/index.m3u8?token=db4a63a8adab0a868ba648068582b7d23c99523e-64-1782297222-1782243222"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "Chilevision",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/chilevision/index.m3u8?token=e6b8d878515d23090c962e970a3a9148713d89de-1e-1782297231-1782243231"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "Disney+",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/disney1/index.m3u8?token=826728ebdf15ce29eae44caaba6ec1cb585b88c6-84-1782297240-1782243240"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "Dsports",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/dsports/index.m3u8?token=ed753b91d0ce637876bb4869abc627817dfb0f52-db-1782297249-1782243249"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "Fox One USA | English",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/foxoneusa/index.m3u8?token=a1318a206c8aac5fb2d391684cf0f808ad7a3cd6-86-1782297276-1782243276"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "Gen PY",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/genpy/index.m3u8?token=4de3297d86a6e45b8698e6f5388c01554e227c44-22-1782297285-1782243285"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "La 1 ES",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/la1es/index.m3u8?token=4e12e136b0661c42d499b58bfb1ff19841920268-fd-1782297294-1782243294"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "Sportv BR",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/sporttvbr1/index.m3u8?token=bbc8d3399c7cb04c640512551652f562fb926adc-9d-1782297312-1782243312"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "Telefe",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/telefe/index.m3u8?token=16f573df481309830f364ec40e6b9bdd65437a20-17-1782297332-1782243332"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "Telemundo USA",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/telemundo/index.m3u8?token=2049a524ff009c6beba793f4bd9fd4611e68f4c3-ef-1782297341-1782243341"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Inglaterra vs Ghana",
+        "categoria": "Fútbol",
+        "canal_nombre": "Trece PY",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/trecepy/index.m3u8?token=3ac43f7cbd8018c8aaeabd9702c3b9f3663a9abc-7c-1782297349-1782243349"
+    },
+    {
+        "evento": "Copa Chile: Coquimbo Unido vs Deportes Limache",
+        "categoria": "Fútbol",
+        "canal_nombre": "TNT Sports CL",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/tntsportschile/index.m3u8?token=ba6e7c81be56d277fe6c7894e330743549f4d0bb-c3-1782297358-1782243358"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Panamá vs Croacia",
+        "categoria": "Fútbol",
+        "canal_nombre": "CazéTV BR",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/cazetv/index.m3u8?token=1695d9d0862e01ea67e40cf40cb5b64a4deab70e-e4-1782297367-1782243367"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Panamá vs Croacia",
+        "categoria": "Fútbol",
+        "canal_nombre": "Chilevision",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/chilevision/index.m3u8?token=0450680e43fd8d0df2090ba06ec946fe3f7c8676-aa-1782297376-1782243376"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Panamá vs Croacia",
+        "categoria": "Fútbol",
+        "canal_nombre": "Dsports +",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/dsportsplus/index.m3u8?token=646eb4daf5876154a864cf224df158a20259aabb-76-1782297385-1782243385"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Panamá vs Croacia",
+        "categoria": "Fútbol",
+        "canal_nombre": "Fox One USA | English",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/foxoneusa/index.m3u8?token=66c2c3c26cdcc098e93638a6015a46b2f539f75d-78-1782297413-1782243413"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Panamá vs Croacia",
+        "categoria": "Fútbol",
+        "canal_nombre": "Telemundo USA",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/telemundo/index.m3u8?token=cdb51fbb44fbaefeffa52bb35bf217dd33f63960-39-1782297422-1782243422"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Panamá vs Croacia",
+        "categoria": "Fútbol",
+        "canal_nombre": "Unicanal PY",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/unicanalpy/index.m3u8?token=98fb435ddb1d637ee10643d1185f46f20adddfab-1a-1782297439-1782243439"
+    },
+    {
+        "evento": "NBA Draft – Primera Ronda",
+        "categoria": "Baloncesto",
+        "canal_nombre": "Espn 2",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/espn2/index.m3u8?token=9fa946aed9defc90699ec64b370db86f9a45b8b9-d2-1782297448-1782243448"
+    },
+    {
+        "evento": "Copa Chile: Everton VM vs Universidad Católica",
+        "categoria": "Fútbol",
+        "canal_nombre": "TNT Sports CL",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/tntsportschile/index.m3u8?token=2a5645ead9bf30278109878c146cb61f5cfe49bc-ed-1782297456-1782243456"
+    },
+    {
+        "evento": "Copa Chile: Palestino vs Audax Italiano",
+        "categoria": "Fútbol",
+        "canal_nombre": "Max",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/max1/index.m3u8?token=857d41733238f86556c3db907f2b462256243758-c3-1782297465-1782243465"
+    },
+    {
+        "evento": "MLB: San Diego Padres vs. Atlanta Braves",
+        "categoria": "Béisbol",
+        "canal_nombre": "ESPN 3",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/espn3/index.m3u8?token=39815c5aad5c3ee96bd4418ba9480cb20057faac-69-1782297474-1782243474"
+    },
+    {
         "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
         "categoria": "Fútbol",
         "canal_nombre": "America TV",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/americatv/index.m3u8?ip=201.248.1.27&token=b94afbefccd7e66bf8a19930185ea44080214edb-5b-1782293248-1782239248"
+        "enlace_m3u8": "https://khala.skylivehd.com/global/americatv/index.m3u8?token=59a9fb2a2a7f5cb1bdcd797ed5f8bd05589e438c-98-1782297483-1782243483"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "categoria": "Fútbol",
+        "canal_nombre": "Azteca 7",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/azteca7/index.m3u8?token=e8651b243e668b62026f55a0efc6a1d0cc075fbd-79-1782297493-1782243493"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "categoria": "Fútbol",
+        "canal_nombre": "Caracol TV",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/evento6/index.m3u8?token=542e66c25e4195b6a7ac235888e51b95dbf35f78-c0-1782297502-1782243502"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "categoria": "Fútbol",
+        "canal_nombre": "Disney+",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/disney2/index.m3u8?token=12c6788b70fccca2e313625e2d10ae4b2032a0e8-c3-1782297512-1782243512"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "categoria": "Fútbol",
+        "canal_nombre": "Dsports",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/dsports/index.m3u8?token=b2f56319b0d18a15325dc2394e1ddde0e59f5b76-f1-1782297521-1782243521"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "categoria": "Fútbol",
+        "canal_nombre": "Fox Sports 1 USA | English",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/fs1usa/index.m3u8?token=bdad644864ce00d883a9a68f056f45a8a293f4ee-17-1782297548-1782243548"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "categoria": "Fútbol",
+        "canal_nombre": "Gen PY",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/genpy/index.m3u8?token=a459783205bb5ef479b6c43712e4b79eea1e1835-ed-1782297557-1782243557"
+    },
+    {
+        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "categoria": "Fútbol",
+        "canal_nombre": "Sportv BR",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/sporttvbr1/index.m3u8?token=374e81acadd340191102dfcdb06f86502bd2092d-cf-1782297566-1782243566"
     },
     {
         "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
         "categoria": "Fútbol",
         "canal_nombre": "Telemundo USA",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/telemundo/index.m3u8?ip=201.248.1.27&token=af61c9b2b0bf38d53db05173a70fe86264d800ca-f4-1782293259-1782239259"
-    },
-    {
-        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
-        "categoria": "Fútbol",
-        "canal_nombre": "Trece PY",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/trecepy/index.m3u8?ip=201.248.1.27&token=5e873799073e805e4e1a73cadd860b659f00e8cf-01-1782293269-1782239269"
+        "enlace_m3u8": "https://khala.skylivehd.com/global/telemundo/index.m3u8?token=f2ef3f24ce51fcebbd2190e67a911f09f288eeda-4f-1782297584-1782243584"
     }
 ]
