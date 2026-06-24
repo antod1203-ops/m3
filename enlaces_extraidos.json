@@ -1,62 +1,26 @@
 [
     {
-        "evento": "NBA Draft – Primera Ronda",
-        "categoria": "Baloncesto",
-        "canal_nombre": "Espn 2",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/espn2/index.m3u8?token=9978402c1101ff18c884fa169ccec388ebc988f7-bf-1782317903-1782263903"
-    },
-    {
-        "evento": "MLB: San Diego Padres vs. Atlanta Braves",
-        "categoria": "Béisbol",
-        "canal_nombre": "ESPN 3",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/espn3/index.m3u8?token=388609c29f724f3fecc4d4e2d90c0803320aa50d-98-1782317912-1782263912"
-    },
-    {
-        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "evento": "Copa Del Mundo 2026: Bosnia vs. Qatar",
         "categoria": "Fútbol",
-        "canal_nombre": "America TV",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/americatv/index.m3u8?token=50b1d27ee9b41bdb2f5f68d6337593741757b189-42-1782317921-1782263921"
+        "canal_nombre": "CazéTV BR 2",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/cazetv2/index.m3u8?ip=190.72.241.240&token=f9485e8ae6c84d0ad3692a1a92cd856d80d56748-a5-1782357561-1782303561"
     },
     {
-        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "evento": "Copa Del Mundo 2026: Bosnia vs. Qatar",
         "categoria": "Fútbol",
-        "canal_nombre": "Caracol TV",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/evento6/index.m3u8?token=e78b90b58cbace31d8f0e0ee8784f22a8c0dfb66-92-1782317930-1782263930"
+        "canal_nombre": "Universo USA",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/universo/index.m3u8?ip=190.72.241.240&token=49a1bba44b7e6c713fc6724e758397fad17b07eb-64-1782357570-1782303570"
     },
     {
-        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "evento": "Copa Del Mundo 2026: Sudafrica vs Corea del Sur",
         "categoria": "Fútbol",
-        "canal_nombre": "Disney+",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/disney2/index.m3u8?token=d24795ba195f00766862e4e1d223e8f73810c3d9-30-1782317939-1782263939"
+        "canal_nombre": "CazéTV BR 2",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/cazetv2/index.m3u8?ip=190.72.241.240&token=626f46adc467d3cee3d35d8c4dc5705e5d785570-10-1782357580-1782303580"
     },
     {
-        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
+        "evento": "Copa Del Mundo 2026: Sudafrica vs Corea del Sur",
         "categoria": "Fútbol",
-        "canal_nombre": "Dsports",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/dsports/index.m3u8?token=2354a758758a5f191f9a0bcadcd1eaf19bd57e3b-bc-1782317947-1782263947"
-    },
-    {
-        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
-        "categoria": "Fútbol",
-        "canal_nombre": "Fox Sports 1 USA | English",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/fs1usa/index.m3u8?token=fccfecbd389e6762fc055bd450213bdbeaa717c7-7a-1782318042-1782264042"
-    },
-    {
-        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
-        "categoria": "Fútbol",
-        "canal_nombre": "Gen PY",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/genpy/index.m3u8?token=a3b95d48a7a1787de4e627a363847f8ee6f236f6-3e-1782318051-1782264051"
-    },
-    {
-        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
-        "categoria": "Fútbol",
-        "canal_nombre": "Telemundo USA",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/telemundo/index.m3u8?token=900470d85a53663cd4fa394718de8cf5400836b5-82-1782318059-1782264059"
-    },
-    {
-        "evento": "Copa Del Mundo 2026: Colombia vs RD del Congo",
-        "categoria": "Fútbol",
-        "canal_nombre": "Trece PY",
-        "enlace_m3u8": "https://khala.skylivehd.com/global/trecepy/index.m3u8?token=ddf5f736b33f68e9ec45c72d905338ba0ef5e73b-a3-1782318068-1782264068"
+        "canal_nombre": "Universo USA",
+        "enlace_m3u8": "https://khala.skylivehd.com/global/universo/index.m3u8?ip=190.72.241.240&token=9b86ccedd4c59257a82afcc8728adad13df57cfc-4e-1782357589-1782303589"
     }
 ]
